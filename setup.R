@@ -1,10 +1,10 @@
 # Set up R project directory structure
-# Author: Pierre Rogy
+# Author: Pierre Rogy, and Rodrigo Martin de Oliveira
 
 
 # Directories and files ---------------------------------------------------
 # Make directories
-## The if statement is to make sure to not overwrite the directroy 
+## The if statement is to make sure to not overwrite the directory 
 ## if it exists (i.e. if it does not exist, create it)
 ## Raw data
 if(!dir.exists("00_rawdata")) {dir.create("00_rawdata")}
