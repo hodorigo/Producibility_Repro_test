@@ -1,0 +1,18 @@
+---
+title: "lesson4)markdown_activ"
+author: "Rodrigo Martin de Oliveira"
+date: 2025-09-11
+output: pdf_document
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+```{r loadlib, message = FALSE}
+library(janitor)
+library(tidyverse)
+library(palmerpenguins)
+library(grateful)
+```
