@@ -3,14 +3,15 @@ title: "My preregistration for activity Productivity and Reproducibility in Ecol
 author: "Rodrigo Martin de Oliveira"
 date: 2025-09-22
 output: pdf_document
-bibliography: bibliography/references.bib
-
-
+bibliography: C:/Users/Hodorigo3/OneDrive/Documentos/Mestrado/Classes/produc_repro_880AU/my_project3/Producibility_Repro_test/01_scripts/bibliography/references.bib
 ---
 
+
+
 ```{r setup, include=FALSE}
-#knitr::opts_chunk$set(echo = FALSE, message = FALSE)
-#tinytex::install_tinytex()
+dir.create("bibliography")
+list.files("bibliography")
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 ```
 
 ```{r loadlib, message = FALSE}
