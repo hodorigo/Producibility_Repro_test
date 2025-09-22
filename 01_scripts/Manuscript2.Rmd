@@ -1,14 +1,16 @@
 ---
-title: "lesson4)markdown_activ"
+title: "My preregistration for activity Productivity and Reproducibility in Ecology and Evolution"
 author: "Rodrigo Martin de Oliveira"
-date: 2025-09-11
+date: 2025-09-22
 output: pdf_document
-bibliography: references.bib
+bibliography: bibliography/references.bib
+
+
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE)
-tinytex::install_tinytex()
+#knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+#tinytex::install_tinytex()
 ```
 
 ```{r loadlib, message = FALSE}
@@ -17,3 +19,5 @@ library(tidyverse)
 library(palmerpenguins)
 library(grateful)
 ```
+
+
