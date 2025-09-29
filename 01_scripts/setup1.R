@@ -1,3 +1,7 @@
+install.packages("readxl")
+install.packages("ggplot")
+
+
 install.packages("grateful")
 install.packages("palmerpenguins")
 install.packages("janitor")

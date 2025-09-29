@@ -1,0 +1,134 @@
+---
+references:
+- id: leiboldMetacommunityConceptFramework2004
+  abstract: >-
+    The metacommunity concept is an important way to think about linkages
+    between different spatial scales in ecology. Here we review current
+    understanding about this concept. We ﬁrst investigate issues related to its
+    deﬁnition as a set of local communities that are linked by dispersal of
+    multiple potentially interacting species. We then identify four paradigms
+    for metacommunities: the patch-dynamic view, the species-sorting view, the
+    mass effects view and the neutral view, that each emphasizes different
+    processes of potential importance in metacommunities. These have somewhat
+    distinct intellectual histories and we discuss elements related to their
+    potential future synthesis. We then use this framework to discuss why the
+    concept is useful in modifying existing ecological thinking and illustrate
+    this with a number of both theoretical and empirical examples. As ecologists
+    strive to understand increasingly complex mechanisms and strive to work
+    across multiple scales of spatio-temporal organization, concepts like the
+    metacommunity can provide important insights that frequently contrast with
+    those that would be obtained with more conventional approaches based on
+    local communities alone.
+  accessed:
+    - year: 2024
+      month: 10
+      day: 11
+  author:
+    - family: Leibold
+      given: M. A.
+    - family: Holyoak
+      given: M.
+    - family: Mouquet
+      given: N.
+    - family: Amarasekare
+      given: P.
+    - family: Chase
+      given: J. M.
+    - family: Hoopes
+      given: M. F.
+    - family: Holt
+      given: R. D.
+    - family: Shurin
+      given: J. B.
+    - family: Law
+      given: R.
+    - family: Tilman
+      given: D.
+    - family: Loreau
+      given: M.
+    - family: Gonzalez
+      given: A.
+  citation-key: leiboldMetacommunityConceptFramework2004
+  container-title: Ecology Letters
+  container-title-short: Ecology Letters
+  DOI: 10.1111/j.1461-0248.2004.00608.x
+  ISSN: 1461-023X, 1461-0248
+  issue: '7'
+  issued:
+    - year: 2004
+      month: 7
+  language: en
+  page: 601-613
+  source: DOI.org (Crossref)
+  title: 'The metacommunity concept: a framework for multi‐scale community ecology'
+  title-short: The metacommunity concept
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2004.00608.x
+  volume: '7'
+
+- id: rochePublicDataArchiving2015
+  accessed:
+    - year: 2025
+      month: 9
+      day: 11
+  author:
+    - family: Roche
+      given: Dominique G.
+    - family: Kruuk
+      given: Loeske E. B.
+    - family: Lanfear
+      given: Robert
+    - family: Binning
+      given: Sandra A.
+  citation-key: rochePublicDataArchiving2015
+  container-title: PLOS Biology
+  container-title-short: PLoS Biol
+  DOI: 10.1371/journal.pbio.1002295
+  ISSN: 1545-7885
+  issue: '11'
+  issued:
+    - year: 2015
+      month: 11
+      day: 10
+  language: en
+  note: roche2015
+  page: e1002295
+  source: DOI.org (Crossref)
+  title: 'Public Data Archiving in Ecology and Evolution: How Well Are We Doing?'
+  title-short: Public Data Archiving in Ecology and Evolution
+  type: article-journal
+  URL: https://dx.plos.org/10.1371/journal.pbio.1002295
+  volume: '13'
+
+- id: sasakiExperimentalEcologyBalance2025
+  accessed:
+    - year: 2025
+      month: 6
+      day: 5
+  author:
+    - family: Sasaki
+      given: Matthew
+    - family: Isanta-Navarro
+      given: Jana
+    - family: Govaert
+      given: Lynn
+  citation-key: sasakiExperimentalEcologyBalance2025
+  container-title: Nature Communications
+  container-title-short: Nat Commun
+  DOI: 10.1038/s41467-025-60470-5
+  ISSN: 2041-1723
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 6
+      day: 3
+  language: en
+  page: '5142'
+  source: DOI.org (Crossref)
+  title: >-
+    Experimental ecology and the balance between realism and feasibility in
+    aquatic ecosystems
+  type: article-journal
+  URL: https://www.nature.com/articles/s41467-025-60470-5
+  volume: '16'
+...
